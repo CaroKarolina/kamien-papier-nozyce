@@ -1,0 +1,17 @@
+.results {
+    background: rgb(216, 175, 175);
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+span {
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.result {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
